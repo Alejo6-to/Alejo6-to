@@ -8,8 +8,6 @@
 📧 [kkevingutierrezz@gmail.com](mailto:kkevingutierrezz@gmail.com)
 
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)]([ENLACE PORTAFOLIO])
-
 </div>
 
 ---
