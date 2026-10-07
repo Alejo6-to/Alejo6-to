@@ -7,46 +7,33 @@
 
 📧 [kkevingutierrezz@gmail.com](mailto:kkevingutierrezz@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkevingutierrezz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([ENLACE LINKEDIN])
+
 [![Portafolio](https://img.shields.io/badge/Portafolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)]([ENLACE PORTAFOLIO])
 
 </div>
 
 ---
 
-## 🧑‍💻 Perfil profesional
+## 🧑‍💻 Perfil 
 
-Profesional en [PROFESIÓN], enfocado en el desarrollo Web y la creación de interfaces de usuario. Cuento con 6 meses de experiencia en desarrollo de software, donde he trabajado en [TIPOS DE APLICACIONES DESARROLLADAS]. Mi objetivo es [OBJETIVO PROFESIONAL]. Me motiva aprender constantemente y construir productos claros, funcionales y bien diseñados.
+Soy estudiante del Sena , enfocado en el desarrollo Web y la creación de interfaces de usuario. Cuento con 6 meses de experiencia en desarrollo de software, donde he trabajado en [Python , SQL , HTML , CSS]. Mi objetivo es ser un gran desarrolador. Me motiva aprender constantemente y construir productos claros, funcionales y bien diseñados.
 
 ---
 
 ## 🎯 Perfil laboral
 
-- **Rol:** [ROL QUE BUSCO O DESEMPEÑO]
-- **Modalidad:** [Presencial / Remoto / Híbrido]
-- **Disponibilidad:** [DISPONIBILIDAD]
-- **Idiomas:** [IDIOMAS Y NIVEL]
+- **Rol:** [Me desempeño en SQL , HTML Y CSS]
+- **Modalidad:** [Presencial / Remoto ]
+- **Disponibilidad:** [DISPONIBLE 24 H]
+- **Idiomas:** [Ingles básico ]
 
 ---
 
-## 💼 Experiencia
 
-### [CARGO] — [EMPRESA]
-*[Mes Año] – [Mes Año / Actualidad]*
-
-- [Responsabilidad o logro principal]
-- [Tecnologías o herramientas utilizadas]
-- [Otro aporte relevante]
-
----
 
 ## 🎓 Estudios
 
-| Título / Programa | Institución | Período |
-|---|---|---|
-| [ESTUDIO] | [INSTITUCIÓN] | [AÑO – AÑO] |
-| [CURSO O CERTIFICACIÓN] | [PLATAFORMA / ENTIDAD] | [AÑO] |
+Me encuentro estudiando Analisis y desarrollo de software en el sena 
 
 ---
 
@@ -78,11 +65,7 @@ Profesional en [PROFESIÓN], enfocado en el desarrollo Web y la creación de int
 
 ## 📂 Repositorios principales
 
-| Repositorio | Descripción | Tecnologías |
-|---|---|---|
-| [[NOMBRE 1]]([ENLACE]) | [Descripción corta] | [Tecnologías] |
-| [[NOMBRE 2]]([ENLACE]) | [Descripción corta] | [Tecnologías] |
-| [[NOMBRE 3]]([ENLACE]) | [Descripción corta] | [Tecnologías] |
+
 
 ---
 
