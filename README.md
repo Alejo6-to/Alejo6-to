@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 Perfil 
 
-Soy estudiante del Sena , enfocado en el desarrollo Web y la creación de interfaces de usuario. Cuento con 6 meses de experiencia en desarrollo de software, donde he trabajado en [Python , SQL , HTML , CSS]. Mi objetivo es ser un gran desarrolador. Me motiva aprender constantemente y construir productos claros, funcionales y bien diseñados.
+Soy estudiante del Sena , enfocado en el desarrollo Web y la creación de interfaces de usuario. Cuento con 6 meses de formacion en desarrollo de software, donde he trabajado en [Python , SQL , HTML , CSS]. Mi objetivo es ser un gran desarrolador. Me motiva aprender constantemente y construir productos claros, funcionales y bien diseñados.
 
 ---
 
